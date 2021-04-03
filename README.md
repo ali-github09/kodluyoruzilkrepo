@@ -1,6 +1,9 @@
 # Kodluyoruz ilk repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+![proje resmi](https://user-images.githubusercontent.com/80008706/113484374-a64ab180-94b0-11eb-8d8c-2726bd18275b.jpg)
+
+
 ## Installation
 
 git clone link (https://github.com/ali-github09/kodluyoruzilkrepo.git)
